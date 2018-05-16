@@ -1,2 +1,1 @@
-# Cryptocurrency-Analysis
-# Cryptocurrency-Analysis
+This project will look at cryptocurrency from a data-driven approach. Most code will be written in python to utilize dataframes and the analysis capabilities it brings. Much of our data will be pulled from the Binance API https://github.com/binance-exchange. Binance is one of the leading cryptocurrency exchanges and provides access to useful information for all of their cryptocurrencies listed. Information such as Open time, daily highs, daily lows, volume, opening and closing prices, much of the information we need to do analysis can be pulled from the Binance API.
